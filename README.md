@@ -15,4 +15,4 @@
 </ul>
 <br>
 各エフェクトの見た目や使い方の概略については動画をご参照ください<br>
-https://www.nicovideo.jp/watch/
+https://www.nicovideo.jp/watch/sm36899435
